@@ -6,7 +6,7 @@ body{
 }
 table{
     border: 2px solid black;
-    text-align: center;
+    border-spacing: 4px;
     border-collapse: separate;
     background-color: yellow;
     margin-top: 150px;
