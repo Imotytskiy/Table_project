@@ -1,0 +1,37 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+table{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: separate;
+    background-color: yellow;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 200px;
+}
+th{
+    border: 2px solid black;    
+    text-align: center;
+    border-collapse: separate;
+    background-color: yellow;
+}
+td{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: separate;
+    background-color: yellow;
+}
+.blue{
+    outline: 2px solid #4f8ee5;
+}
+.yellow{
+    outline: 2px solid yellow;
+    z-index: 2;
+}
